@@ -22,6 +22,7 @@ function Home() {
           </div>
         </div>
       </div>
+      <ListaCategoria />
     </>
   )
 }
